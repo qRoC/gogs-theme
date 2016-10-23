@@ -1,0 +1,39 @@
+.following.bar.light {
+    background: #205081;
+    color: #fff;
+    border-bottom-color: #2e3d54;
+}
+
+.following.bar .top.menu a.item {
+    color: #fff;
+}
+
+.following.bar .top.menu a.item:hover {
+    background-color: #296ca3;
+    color: #f0f0f0;
+}
+
+.following.bar .top.menu a.item.active {
+    background-color: #296ca3;
+    color: #f0f0f0;
+}
+
+.following.bar .head.link.item {
+    color: #f0f0f0;
+}
+
+.following.bar .head.link.item i.octicon-triangle-down {
+    font-size: 12px;
+    color: #d8d5d5;
+}
+
+.following.bar .right.menu .dropdown .menu {
+    border-radius: 0;
+}
+
+.ui.menu .ui.dropdown .menu>.item:hover,
+.ui.menu .ui.dropdown .menu>.selected.item {
+    background-color: #3b73af !important;
+    color: #fff !important;
+    border-radius: 0;
+}
