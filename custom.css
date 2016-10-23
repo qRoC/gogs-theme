@@ -37,3 +37,32 @@
     color: #fff !important;
     border-radius: 0;
 }
+
+.ui.top.attached.header,
+.ui.vertical.menu .header.item {
+	background-color: #3b73af;
+    color: #fff;
+    border: 0;
+}
+
+.ui.menu .active.item:hover,
+.ui.vertical.menu .active.item:hover {
+	background-color: #3b73af !important;
+    color: #fff !important;
+    border-radius: 0;
+}
+
+.ui.link.menu .item:hover,
+.ui.menu .dropdown.item:hover,
+.ui.menu .link.item:hover,
+.ui.menu a.item:hover {
+	background-color: #3b73af !important;
+    color: #fff !important;
+    border-radius: 0;
+}
+
+.ui.vertical.menu .active.item {
+	background-color: #3b73af !important;
+    color: #fff !important;
+    border-radius: 0;
+}
