@@ -1,4 +1,5 @@
 1) Open /home/git/go/src/github.com/gogits/gogs/templates/base/head.tmpl
+
 Add after:
 ```html
 	<!-- Stylesheet -->
